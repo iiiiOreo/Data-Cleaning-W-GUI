@@ -1,26 +1,34 @@
-AIO Data Cleaning:
+# AIO Data Cleaning:
 
 A Python application built with Tkinter for efficient manipulation of text files, offering a range of functions to enhance and modify textual content. The application provides a user-friendly interface with various features including:
 
-Uppercase Conversion: Convert the entire text to uppercase.
+### Uppercase Conversion:
+Convert the entire text to uppercase.
 
-Lowercase Conversion: Convert the entire text to lowercase.
+### Lowercase Conversion:
+Convert the entire text to lowercase.
 
-Lemmatization: Apply lemmatization to reduce words to their base or root form.
+### Lemmatization:
+Apply lemmatization to reduce words to their base or root form.
 
-Stemming: Apply stemming to reduce words to their word stems.
+### Stemming: 
+Apply stemming to reduce words to their word stems.
 
-Edit Text: Open a separate window to manually edit the text content.
+### Edit Text: 
+Open a separate window to manually edit the text content.
 
-Find Word: Search for a specific word within the text.
+### Find Word: 
+Search for a specific word within the text.
 
-Convert to PDF: Convert the text file to PDF format.
+### Convert to PDF: 
+Convert the text file to PDF format.
 
-Word Count: Calculate the frequency of each word in the text.
+### Word Count: 
+Calculate the frequency of each word in the text.
 
 The application offers a 'Browse' button to select a text file, and users can perform multiple operations on the content with ease. The results can be viewed in a new window and saved to a separate file. The 'Find' function allows users to locate specific words within the text, providing valuable insights into the content.
 
-How to Use:
+## How to Use:
 
 Ensure you have Python installed on your machine.
 
@@ -31,4 +39,4 @@ Navigate to the project directory: cd Data-Cleaning-W-GUI
 Run the application: python data_cleaner.py
 
 
-Read the presentation [Data Cleaning.pdf](https://github.com/iiiiOreo/Data-Cleaning-W-GUI/files/14375780/Data.Cleaning.pdf)
+## Read the presentation [Data Cleaning.pdf](https://github.com/iiiiOreo/Data-Cleaning-W-GUI/files/14375780/Data.Cleaning.pdf)
